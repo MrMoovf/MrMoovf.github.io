@@ -30,7 +30,6 @@ More testing
                 <td>3.64</td>
                 <td>1.5</td>
                 <td>+2.14</td>
-
             </tr>
             <tr>
                 <td>Årlig mio. tons fosforudledning </td>
