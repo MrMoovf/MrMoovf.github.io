@@ -18,7 +18,7 @@ More testing
             <li> Testing item 2 </li>
         </ol>
         <table>
-            <caption> Aarhus Kommune Nøgletal </capotion>
+            <caption> Aarhus Kommune Nøgletal </caption>
             <tr>
                 <th>Kategori</th>
                 <th>Seneste estimat</th>
