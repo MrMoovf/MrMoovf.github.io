@@ -4,6 +4,7 @@ And this is the first time I try editing it from Visual Studio
 
 Alright testing some HTML commands here
 More testing
+
 <html>
     <body>
         <h1>
@@ -35,7 +36,7 @@ More testing
                 <td>Årlig mio. tons fosforudledning </td>
                 <td>14</td>
                 <td>6.2</td>
-                <td>7.8</td>
+                <td>+7.8</td>
             </tr>
         </table>
     </body>
