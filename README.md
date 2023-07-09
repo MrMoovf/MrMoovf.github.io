@@ -5,7 +5,6 @@ And this is the first time I try editing it from Visual Studio
 Alright testing some HTML commands here
 More testing
 
-<html lang="en">
 <html>
     <body>
         <h1>
@@ -18,8 +17,14 @@ More testing
             <li> Testing a list item 1</li>
             <li> Testing item 2 </li>
         </ol>
-        <p> 
-
-        </p>
+        <table>
+            <caption> Aarhus Kommune Nøgletal </capotion>
+            <tr>
+                <th>Kategori</th>
+                <th>Seneste estimat</th>
+                <th>Planetær grænse</th>
+                <th>Difference</th>
+            </tr>
+        </table>
     </body>
 </html>
