@@ -5,10 +5,21 @@ And this is the first time I try editing it from Visual Studio
 Alright testing some HTML commands here
 More testing
 
-<!DOCTYPE>
 <html lang="en">
-<body> 
-<h1> a title as well </h1>
-<p>testing again! </p>
-</body>
+<html>
+    <body>
+        <h1>
+            Doughnut-Økonomi i Aarhus
+        </h1>
+        <h2>
+            Hvor langt er vi?
+        </h2>
+        <ol>
+            <li> Testing a list item 1</li>
+            <li> Testing item 2 </li>
+        </ol>
+        <p> 
+
+        </p>
+    </body>
 </html>
