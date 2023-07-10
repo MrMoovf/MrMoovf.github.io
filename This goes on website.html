@@ -20,15 +20,80 @@
             <caption> Aarhus Kommune Nøgletal </caption>
             <tr>
                 <th>Kategori</th>
-                <th>Seneste estimat</th>
+                <th>Operationalisering</th>
+                <th>Seneste estimat og tendens</th>
                 <th>Planetær grænse</th>
                 <th>Difference</th>
             </tr>
             <tr>
+                <td>Klimaforandringer/temperaturstigninger</td>
                 <td>Årlig tons CO2-udledning pr. indbygger (praktisk ækvivalent til PPM) </td>
-                <td>3.64</td>
+                <td>Ca. 3.64 og faldende</td>
                 <td>1.5</td>
                 <td>+2.14</td>
+            </tr>
+            <tr>
+                <td>Forsuring af havene</td>
+                <td>Gennemsnitlig mætning af aragonit (calciumcarbonat) i havenes overfladevang som procentdel af førindustrielt niveau </td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Kemisk forurening</td>
+                <td>Ingen defineret operationalisering</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Kvælstofbelastning</td>
+                <td>Reaktivt kvælstof i form af kunstgødning, målt i mio. tons/året</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Fosforbelastning</td>
+                <td>Fosfor i form af kunstgødning, målt i mio. tons/året</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Ferskvandsmangel</td>
+                <td>Vandforbrug kubikkilometer om året</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Omlægning af jordbrug</td>
+                <td>Skovarealer nu, som procentdel ift. skovarealer før menneskets indgriben</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Tab af biodiversitet</td>
+                <td>Artsudryddelser per million arter, målt årligt</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Luftforurening</td>
+                <td>Ingen defineret operationalisering</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Udtyndning af ozonlaget</td>
+                <td>Stratosfærens ozonindhold i Dobsonenheder (DU)</td>
+                <td>--Nok ikke relevant--</td>
+                <td>--Nok ikke relevant--</td>
+                <td>--Nok ikke relevant--</td>
             </tr>
         </table>
         <h2 id="PlanetæreTal"> Gennemsnitlige Planetære Nøgletal</h2>
