@@ -98,9 +98,9 @@
             <tr>
                 <td>Udtyndning af ozonlaget</td>
                 <td>Stratosfærens ozonindhold i Dobsonenheder (DU)</td>
-                <td>--Nok ikke relevant--</td>
-                <td>--Nok ikke relevant--</td>
-                <td>--Nok ikke relevant--</td>
+                <td> <em> --Nok ikke relevant-- </em></td>
+                <td> <em> --Nok ikke relevant-- </em></td>
+                <td> <em> --Nok ikke relevant-- </em></td>
             </tr>
         </table>
         <br>
