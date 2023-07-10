@@ -123,6 +123,7 @@
             </tr>
         </table>
         <br>
+        <hr>
         <table>
             <caption><h2 id="PlanetæreTal"> Gennemsnitlige Planetære Nøgletal</h2></caption>
             <tr>
@@ -206,6 +207,7 @@
         <tfoot> <i> Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde</i></tfoot>
         <br>
         <br>
+        <hr>
         <h2 id="AnbefaletLitteratur">Anbefalet litteratur</h2>
         <p><strong>Bøger</strong></p>
         <ul>
@@ -232,6 +234,7 @@
             <li>Tidsmæssige forudsigelser for hvornår en nuværende marginalændring i et givent klimatal kommer ned under den pågældende planetære grænse </li>
             <li>Visuelle repræsentationer af nøgletallenes udvikling over tid</li>
             <li>Anbefalet litteratur om Doughnut-Økonomi, klimaaktivisme eller generelle videnskabelige artikler om klimaet inklusiv IPCC-rapporter</li>
+            <li>En 'tilmelding til email-liste' funktion!</li>
         </ul>
     </body>
 </html>
