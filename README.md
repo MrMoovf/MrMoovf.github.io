@@ -183,7 +183,6 @@
         <ol>
             <li><a href=mailto:"anders@kozuch.dk">Send email</a></li>
             <li>Ring på <a href="tel:27116054">+45 27 11 60 54</a></li>
-
         </ol>
     </body>
 </html>
