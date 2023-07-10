@@ -12,7 +12,6 @@
         <ul>
             <li> <a href="#Aarhus">Aarhus Kommune</a></li>
         </ul>
-
         <h2 id="Aarhus">
             Hvor langt er vi? En status for Aarhus Kommune
         </h2>
