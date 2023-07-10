@@ -184,14 +184,16 @@
         <h2 id="Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</h2>
         <h3>Anders Kozuch</h3>
         <ul>
-            <li><a href="mailto:anders@kozuch.dk">Send email</a></li>
+            <li>Send <a href="mailto:anders@kozuch.dk">email</a></li>
             <li>Ring på <a href="tel:27116054">+45 27 11 60 54</a></li>
         </ul>
         <h2 id="Idéer">Idéer til hjemmesidefunktionaliteter</h2>
         <ul>
+            <li>En sidebar med oversigt over alle nye tilføjelser, der ikke bare kan være på 'main page'</li>
             <li>Forudsagte ændringer i en valgt bys nøgletal, givet en valgt ny klimaskånende politik; kræver estimater fra forskellige politikker</li>
             <li>Tidsmæssige forudsigelser for hvornår en nuværende marginalændring i et givent klimatal kommer ned under den pågældende planetære grænse </li>
             <li>Visuelle repræsentationer af nøgletallenes udvikling over tid</li>
+            <li>Anbefalet litteratur om Doughnut-Økonomi, klimaaktivisme eller generelle videnskabelige artikler om klimaet inklusiv IPCC-rapporter</li>
         </ul>
     </body>
 </html>
