@@ -7,7 +7,7 @@
             Velkommen til en hjemmeside med informationer om danske byers udledninger og klimamæssige nøgletal. Her kan du finde tal på de fleste store danske byer, og du kan se hvor langt din by er (eller ikke er) på vejen mod at blive bæredygtig.
         </p>
         <p>
-            Du vil også nederst på siden kunne se tal for kloden som helhed, og hvor langt vi er på verdensplan. God fornøjelse og kampgejst!
+            Du vil også nederst på siden kunne se tal for kloden som helhed, og hvor langt vi er på verdensplan. God fornøjelse og kampgejst! OBS: Denne hjemmeside er endnu ikke optimeret til mobilvisning; PC/MAC anbefales.
         </p>
         <p>
             <strong>Indholdsfortegnelse</strong>
