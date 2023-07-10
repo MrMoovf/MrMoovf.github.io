@@ -202,6 +202,7 @@
         </table>
         <tfoot> <i> Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde</i></tfoot>
         <br>
+        <br>
         <h2 id="AnbefaletLitteratur">Anbefalet litteratur</h2>
         <p><strong>Bøger</strong></p>
         <ul>
@@ -212,6 +213,7 @@
             <li>Seneste <a href="https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf" target="_blank">IPCC-rapport fra 2023</a> (åbner ny fane)</li>
         </ul>
         <p></p>
+        <br>
         <h2 id="Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</h2>
         <h3>Anders Kozuch</h3>
         <ul>
