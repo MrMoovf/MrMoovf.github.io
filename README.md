@@ -1,5 +1,14 @@
 <html>
+    <head>
+        <title>Projekt Doughnut</title>
+    </head>
     <body>
+        <div class="sidenav">
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">Clients</a>
+            <a href="#">Contact</a>
+          </div>
         <h1>
             Projekt Doughnut-Økonomi i Danmark
         </h1>
