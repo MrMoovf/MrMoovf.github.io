@@ -1,6 +1,3 @@
-# Anders Kozuch's website
-<!DOCTYPE>
-<!DOCTYPE>
 <html>
     <body>
         <h1>
@@ -9,10 +6,6 @@
         <h2>
             Hvor langt er vi? En status for Aarhus Kommune
         </h2>
-        <ol>
-            <li> Testing a list item 1</li>
-            <li> Testing item 2 </li>
-        </ol>
         <table>
             <caption> Aarhus Kommune Nøgletal </caption>
             <tr>
@@ -26,12 +19,6 @@
                 <td>3.64</td>
                 <td>1.5</td>
                 <td>+2.14</td>
-            </tr>
-            <tr>
-                <td>Årlig mio. tons fosforudledning </td>
-                <td>14</td>
-                <td>6.2</td>
-                <td>+7.8</td>
             </tr>
         </table>
         <table>
@@ -80,7 +67,37 @@
             </tr>
             <tr>
                 <td>Ferskvandsmangel</td>
-                <td>Vandforbrug </td>
+                <td>Vandforbrug kubikkilometer om året</td>
+                <td>Ca. 2.600 km^3</td>
+                <td>Max 4.000 km^3</td>
+                <td>-1400 km^3</td>
+            </tr>
+            <tr>
+                <td>Omlægning af jordbrug</td>
+                <td>Skovarealer nu, som procentdel ift. skovarealer før menneskets indgriben</td>
+                <td>62%</td>
+                <td>Minimum 75%</td>
+                <td>+13%</td>
+            </tr>
+            <tr>
+                <td>Tab af biodiversitet</td>
+                <td>Artsudryddelser per million arter, målt årligt</td>
+                <td>Mellem 100-1000, og stigende</td>
+                <td>Max 10</td>
+                <td>+90 i det mest konservative estimat</td>
+            </tr>
+            <tr>
+                <td>Luftforurening</td>
+                <td>Ingen defineret operationalisering</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Udtyndning af ozonlaget</td>
+                <td>Stratosfærens ozonindhold i Dobsonenheder (DU)</td>
+                <td>283 DU, og stigende (= i bedring)</td>
+                <td>Minimum 275 DU</td>
             </tr>
         </table>
     </body>
