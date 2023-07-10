@@ -103,6 +103,8 @@
                 <td>--Nok ikke relevant--</td>
             </tr>
         </table>
+        <br>
+        <hr>
         <table>
             <caption><h2 id="København">Københavns Kommune Nøgletal</h2></caption>
             <tr>
@@ -120,6 +122,7 @@
                 <td><em> Ikke udarbejdet endnu</em></td>
             </tr>
         </table>
+        <br>
         <table>
             <caption><h2 id="PlanetæreTal"> Gennemsnitlige Planetære Nøgletal</h2></caption>
             <tr>
