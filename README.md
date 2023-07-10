@@ -11,6 +11,7 @@
         </p>
         <ul>
             <li> <a href="#Aarhus">Aarhus Kommune</a></li>
+            <li> <a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
         </ul>
         <h2 id="Aarhus">
             Hvor langt er vi? En status for Aarhus Kommune
@@ -30,6 +31,7 @@
                 <td>+2.14</td>
             </tr>
         </table>
+        <h2 id="PlanetæreTal"> Gennemsnitlige Planetære Nøgletal</h2>
         <table>
             <caption>Gennemsnitlige Planetære Nøgletal</caption>
             <tr>
