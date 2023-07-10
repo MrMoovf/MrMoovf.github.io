@@ -1,7 +1,7 @@
 <html>
     <body>
         <h1>
-            Doughnut-Økonomi i Aarhus
+            Projekt Doughnut-Økonomi i Danmark
         </h1>
         <p>
             Velkommen til en hjemmeside med informationer om danske byers udledninger og klimamæssige nøgletal. Her kan du finde tal på de fleste store danske byer, og du kan se hvor langt din by er (eller ikke er) på vejen mod at blive bæredygtig.
@@ -10,14 +10,11 @@
             Du vil også nederst på siden kunne se tal for kloden som helhed, og hvor langt vi er på verdensplan. God fornøjelse og kampgejst!
         </p>
         <ul>
-            <li> <a href="#Aarhus">Aarhus Kommune</a></li>
+            <li> <a href="#Aarhus">Aarhus Kommune Nøgletal</a></li>
             <li> <a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
         </ul>
-        <h2 id="Aarhus">
-            Hvor langt er vi? En status for Aarhus Kommune
-        </h2>
         <table>
-            <caption> Aarhus Kommune Nøgletal </caption>
+            <caption> <h2 id="Aarhus"> Aarhus Kommune Nøgletal - en status </h2></caption>
             <tr>
                 <th>Kategori</th>
                 <th>Operationalisering</th>
