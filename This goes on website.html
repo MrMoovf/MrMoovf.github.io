@@ -97,9 +97,8 @@
                 <td>--Nok ikke relevant--</td>
             </tr>
         </table>
-        <h2 id="PlanetæreTal"> Gennemsnitlige Planetære Nøgletal</h2>
         <table>
-            <caption>Gennemsnitlige Planetære Nøgletal</caption>
+            <caption><h2 id="PlanetæreTal"> Gennemsnitlige Planetære Nøgletal</h2></caption>
             <tr>
                 <th>Kategori</th>
                 <th>Operationalisering</th>
