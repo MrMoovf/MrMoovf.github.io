@@ -12,6 +12,7 @@
         <ul>
             <li> <a href="#Aarhus">Aarhus Kommune Nøgletal</a></li>
             <li> <a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
+            <li><a href="#Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</a></li>
         </ul>
         <table>
             <caption> <h2 id="Aarhus"> Aarhus Kommune Nøgletal - en status </h2></caption>
@@ -173,10 +174,16 @@
                 <td>Minimum 275 DU</td>
                 <td>-8 DU</td>
             </tr>
-            
         </table>
         <tfoot>
             Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde.
         </tfoot>
+        <h2 id="Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</h2>
+        <h3>Anders Kozuch</h3>
+        <ol>
+            <li><a href=mailto:"anders@kozuch.dk">Send email</a></li>
+            <li>Ring på <a href="tel:27116054">+45 27 11 60 54</a></li>
+
+        </ol>
     </body>
 </html>
