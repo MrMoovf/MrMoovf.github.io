@@ -16,6 +16,7 @@
             <li> <a href="#Aarhus">Aarhus Kommune Nøgletal</a></li>
             <li> <a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
             <li><a href="#Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</a></li>
+            <li><a href="#Idéer">Idéer til hjemmesidefunktionaliteter</a></li>
         </ul>
         <table>
             <caption> <h2 id="Aarhus"> Aarhus Kommune Nøgletal - en status </h2></caption>
@@ -183,8 +184,14 @@
         <h2 id="Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</h2>
         <h3>Anders Kozuch</h3>
         <ul>
-            <li><a href=mailto:"anders@kozuch.dk">Send email</a></li>
+            <li><a href="mailto:anders@kozuch.dk">Send email</a></li>
             <li>Ring på <a href="tel:27116054">+45 27 11 60 54</a></li>
+        </ul>
+        <h2 id="Idéer">Idéer til hjemmesidefunktionaliteter</h2>
+        <ul>
+            <li>Forudsagte ændringer i en valgt bys nøgletal, givet en valgt ny klimaskånende politik; kræver estimater fra forskellige politikker</li>
+            <li>Tidsmæssige forudsigelser for hvornår en nuværende marginalændring i et givent klimatal kommer ned under den pågældende planetære grænse </li>
+            <li>Visuelle repræsentationer af nøgletallenes udvikling over tid</li>
         </ul>
     </body>
 </html>
