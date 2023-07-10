@@ -145,7 +145,7 @@
                 <td>Gennemsnitlig mætning af aragonit (calciumcarbonat) i havenes overfladevang som procentdel af førindustrielt niveau </td>
                 <td>Ca. 84 % og faldende</td>
                 <td>Min. 80 % af den førindustrielle grænse</td>
-                <td style="color:lime"> -4% </td>
+                <td style="color:green"> -4% </td>
             </tr>
             <tr>
                 <td>Kemisk forurening</td>
@@ -173,7 +173,7 @@
                 <td>Vandforbrug kubikkilometer om året</td>
                 <td>Ca. 2.600 km^3</td>
                 <td>Max 4.000 km^3</td>
-                <td style="color:lime">-1400 km^3</td>
+                <td style="color:green">-1400 km^3</td>
             </tr>
             <tr>
                 <td>Omlægning af jordbrug</td>
@@ -201,7 +201,7 @@
                 <td>Stratosfærens ozonindhold i Dobsonenheder (DU)</td>
                 <td>283 DU, og stigende (= i bedring)</td>
                 <td>Minimum 275 DU</td>
-                <td style="color:lime">-8 DU</td>
+                <td style="color:green">-8 DU</td>
             </tr>
         </table>
         <tfoot> <i> Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde</i></tfoot>
@@ -236,8 +236,5 @@
             <li>Anbefalet litteratur om Doughnut-Økonomi, klimaaktivisme eller generelle videnskabelige artikler om klimaet inklusiv IPCC-rapporter</li>
             <li>En 'tilmelding til email-liste' funktion!</li>
         </ul>
-        <p style="color:crimson">
-            Test af color wuhu!!
-        </p>
     </body>
 </html>
