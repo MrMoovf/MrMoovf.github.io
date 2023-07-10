@@ -236,5 +236,8 @@
             <li>Anbefalet litteratur om Doughnut-Økonomi, klimaaktivisme eller generelle videnskabelige artikler om klimaet inklusiv IPCC-rapporter</li>
             <li>En 'tilmelding til email-liste' funktion!</li>
         </ul>
+        <p style="color:crimson">
+            Test af color wuhu!!
+        </p>
     </body>
 </html>
