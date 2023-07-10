@@ -180,9 +180,9 @@
         </tfoot>
         <h2 id="Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</h2>
         <h3>Anders Kozuch</h3>
-        <ol>
+        <ul>
             <li><a href=mailto:"anders@kozuch.dk">Send email</a></li>
             <li>Ring på <a href="tel:27116054">+45 27 11 60 54</a></li>
-        </ol>
+        </ul>
     </body>
 </html>
