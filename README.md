@@ -202,6 +202,7 @@
         </table>
         <tfoot> <i> Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde</i></tfoot>
         <h2 id="AnbefaletLitteratur">Anbefalet litteratur</h2>
+        <p></p>
         <p><strong>Bøger</strong></p>
         <ul>
             <li>Kate Raworth - Doughtnut Økonomi (2018), bog</li>
@@ -210,12 +211,15 @@
         <ul>
             <li>Seneste <a href="https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf" target="_blank">IPCC-rapport fra 2023</a> (åbner ny fane)</li>
         </ul>
+        <p></p>
         <h2 id="Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</h2>
         <h3>Anders Kozuch</h3>
         <ul>
             <li>Send <a href="mailto:anders@kozuch.dk">email</a></li>
             <li>Ring på <a href="tel:27116054">+45 27 11 60 54</a></li>
         </ul>
+        <p></p>
+        <p></p>
         <h2 id="Idéer">Idéer til hjemmesidefunktionaliteter</h2>
         <ul>
             <li>En sidebar med oversigt over alle nye tilføjelser, der ikke bare kan være på 'main page'</li>
