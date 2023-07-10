@@ -18,7 +18,7 @@
         <ul>
             <li><a href="#Aarhus">Aarhus Kommune Nøgletal</a></li>
             <li><a href="#København">Københavns Kommune Nøgletal</a></li>
-            <li><a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
+            <li><a href="#PlanetæreTal">Gennemsnitlige Planetære Nøgletal </a> </li>
             <li><a href="#AnbefaletLitteratur">Anbefalet litteratur</a></li>
             <li><a href="#Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</a></li>
             <li><a href="#Idéer">Idéer til hjemmesidefunktionaliteter</a></li>
@@ -201,7 +201,7 @@
             </tr>
         </table>
         <tfoot>
-            Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde.
+            <em> Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde. <em>
         </tfoot>
         <h2 id="AnbefaletLitteratur">Anbefalet litteratur</h2>
         <p><strong>Bøger</strong></p>
