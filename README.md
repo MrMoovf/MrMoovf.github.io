@@ -138,7 +138,7 @@
                 <td>Atmosfærens kuldioxidindhold i milliontedele (PPM)</td>
                 <td>400 PPM og stigende</td>
                 <td>Max 350 PPM</td>
-                <td>+50 PPM</td>
+                <td style="color:crimson" >+50 PPM</td>
             </tr>
             <tr>
                 <td>Forsuring af havene</td>
