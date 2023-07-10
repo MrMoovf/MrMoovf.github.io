@@ -201,8 +201,8 @@
             </tr>
         </table>
         <tfoot> <i> Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde</i></tfoot>
-        <h2 id="AnbefaletLitteratur">Anbefalet litteratur</h2>
         <br>
+        <h2 id="AnbefaletLitteratur">Anbefalet litteratur</h2>
         <p><strong>Bøger</strong></p>
         <ul>
             <li>Kate Raworth - Doughtnut Økonomi (2018), bog</li>
