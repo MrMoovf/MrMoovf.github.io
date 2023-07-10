@@ -9,6 +9,9 @@
         <p>
             Du vil også nederst på siden kunne se tal for kloden som helhed, og hvor langt vi er på verdensplan. God fornøjelse og kampgejst!
         </p>
+        <p>
+            <strong>Indholdsfortegnelse</strong>
+        </p>
         <ul>
             <li> <a href="#Aarhus">Aarhus Kommune Nøgletal</a></li>
             <li> <a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
