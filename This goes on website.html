@@ -37,7 +37,7 @@
                 <td>Årlig tons CO2-udledning pr. indbygger (praktisk ækvivalent til PPM) </td>
                 <td>Ca. 3.64 og faldende</td>
                 <td>1.5</td>
-                <td>+2.14</td>
+                <td style="color:crimson">+2.14</td>
             </tr>
             <tr>
                 <td>Forsuring af havene</td>
@@ -145,7 +145,7 @@
                 <td>Gennemsnitlig mætning af aragonit (calciumcarbonat) i havenes overfladevang som procentdel af førindustrielt niveau </td>
                 <td>Ca. 84 % og faldende</td>
                 <td>Min. 80 % af den førindustrielle grænse</td>
-                <td> -4% </td>
+                <td style="color:lime"> -4% </td>
             </tr>
             <tr>
                 <td>Kemisk forurening</td>
@@ -159,35 +159,35 @@
                 <td>Reaktivt kvælstof i form af kunstgødning, målt i mio. tons/året</td>
                 <td>Ca. 150 og stigende</td>
                 <td>Max 62</td>
-                <td>+88</td>
+                <td style="color:crimson">+88</td>
             </tr>
             <tr>
                 <td>Fosforbelastning</td>
                 <td>Fosfor i form af kunstgødning, målt i mio. tons/året</td>
                 <td>Ca. 14 og stigende</td>
                 <td>Max 6.2</td>
-                <td>+7.7</td>
+                <td style="color:crimson">+7.7</td>
             </tr>
             <tr>
                 <td>Ferskvandsmangel</td>
                 <td>Vandforbrug kubikkilometer om året</td>
                 <td>Ca. 2.600 km^3</td>
                 <td>Max 4.000 km^3</td>
-                <td>-1400 km^3</td>
+                <td style="color:lime">-1400 km^3</td>
             </tr>
             <tr>
                 <td>Omlægning af jordbrug</td>
                 <td>Skovarealer nu, som procentdel ift. skovarealer før menneskets indgriben</td>
                 <td>62%</td>
                 <td>Minimum 75%</td>
-                <td>+13%</td>
+                <td style="color:crimson">+13%</td>
             </tr>
             <tr>
                 <td>Tab af biodiversitet</td>
                 <td>Artsudryddelser per million arter, målt årligt</td>
                 <td>Mellem 100-1000, og stigende</td>
                 <td>Max 10</td>
-                <td>+90 i det mest konservative estimat</td>
+                <td style="color:crimson">+90 i det mest konservative estimat</td>
             </tr>
             <tr>
                 <td>Luftforurening</td>
@@ -201,7 +201,7 @@
                 <td>Stratosfærens ozonindhold i Dobsonenheder (DU)</td>
                 <td>283 DU, og stigende (= i bedring)</td>
                 <td>Minimum 275 DU</td>
-                <td>-8 DU</td>
+                <td style="color:lime">-8 DU</td>
             </tr>
         </table>
         <tfoot> <i> Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde</i></tfoot>
