@@ -110,11 +110,11 @@
                 <th>Difference</th>
             </tr>
             <tr>
-                <td>Ikke udarbejdet endnu</td>
-                <td>Ikke udarbejdet endnu</td>
-                <td>Ikke udarbejdet endnu</td>
-                <td>Ikke udarbejdet endnu</td>
-                <td>Ikke udarbejdet endnu</td>
+                <td><em> Ikke udarbejdet endnu</em></td>
+                <td><em> Ikke udarbejdet endnu</em></td>
+                <td><em> Ikke udarbejdet endnu</em></td>
+                <td><em> Ikke udarbejdet endnu</em></td>
+                <td><em> Ikke udarbejdet endnu</em></td>
             </tr>
         </table>
         <table>
