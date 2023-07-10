@@ -98,7 +98,11 @@
                 <td>Stratosfærens ozonindhold i Dobsonenheder (DU)</td>
                 <td>283 DU, og stigende (= i bedring)</td>
                 <td>Minimum 275 DU</td>
+                <td>-8 DU</td>
             </tr>
+            <tfoot>
+                Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde.
+            </tfoot>
         </table>
     </body>
 </html>
