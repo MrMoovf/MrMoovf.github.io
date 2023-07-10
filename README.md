@@ -13,8 +13,10 @@
             <strong>Indholdsfortegnelse</strong>
         </p>
         <ul>
-            <li> <a href="#Aarhus">Aarhus Kommune Nøgletal</a></li>
-            <li> <a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
+            <li><a href="#Aarhus">Aarhus Kommune Nøgletal</a></li>
+            <li><a href="#København">Københavns Kommune Nøgletal</a></li>
+            <li><a href="#PlanetæreTal">Gennemsnitlige planetære Nøgletal </a> </li>
+            <li><a href="#AnbefaletLitteratur">Anbefalet litteratur</a></li>
             <li><a href="#Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</a></li>
             <li><a href="#Idéer">Idéer til hjemmesidefunktionaliteter</a></li>
         </ul>
@@ -96,6 +98,23 @@
                 <td>--Nok ikke relevant--</td>
                 <td>--Nok ikke relevant--</td>
                 <td>--Nok ikke relevant--</td>
+            </tr>
+        </table>
+        <table>
+            <caption><h2 id="København">Københavns Kommune Nøgletal</h2></caption>
+            <tr>
+                <th>Kategori</th>
+                <th>Operationalisering</th>
+                <th>Seneste estimat og tendens</th>
+                <th>Planetær grænse</th>
+                <th>Difference</th>
+            </tr>
+            <tr>
+                <td>Ikke udarbejdet endnu</td>
+                <td>Ikke udarbejdet endnu</td>
+                <td>Ikke udarbejdet endnu</td>
+                <td>Ikke udarbejdet endnu</td>
+                <td>Ikke udarbejdet endnu</td>
             </tr>
         </table>
         <table>
@@ -181,6 +200,15 @@
         <tfoot>
             Note: Data er fra Steffen et al. 2015b, afrapporteret fra Kate Raworths bog "Doughnut-Økonomi" (2018). Differencer med + indikerer, at vi overskrider en planetær grænse med en given mængde. Differencer med - indikerer, at vi holder os inden for en planetær grænse med en given mængde.
         </tfoot>
+        <h2 id="AnbefaletLitteratur">Anbefalet litteratur</h2>
+        <p><strong>Bøger</strong></p>
+        <ul>
+            <li>Kate Raworth - Doughtnut Økonomi (2018), bog</li>
+        </ul>
+        <p><strong>Videnskabelige artikler</strong></p>
+        <ul>
+            <li>Seneste <a href="https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf" target="_blank">IPCC-rapport fra 2023</a> (åbner ny fane)</li>
+        </ul>
         <h2 id="Kontakt">Kontakt 'Projekt Dougnut-Økonomi'</h2>
         <h3>Anders Kozuch</h3>
         <ul>
