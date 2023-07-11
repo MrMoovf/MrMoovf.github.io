@@ -3,6 +3,10 @@
         <title>Projekt Doughnut</title>
     </head>
     <body>
+        <nav>
+            <a href="#">Test af nav bar 1</a>
+            <a href="#">test af nav bar 2</a>
+        </nav>
         <h1>
             Projekt Doughnut-Økonomi i Danmark
         </h1>
